@@ -26,22 +26,44 @@
 //     }
 // }
 
-var uname = "ali";
-var day = "mon";
+// var uname = "ali";
+// var day = "mon";
 
 
-if (uname == "ali") {
+// if (uname == "ali") {
 
-    if (day == "mon") {
-        console.log("welcome")
+//     if (day == "mon") {
+//         console.log("welcome")
     
-    }
-    else {
-        console.log("aj app ki calss nahi hai ghar jao")
-    }
-}
+//     }
+//     else {
+//         console.log("aj app ki calss nahi hai ghar jao")
+//     }
+// }
 
-else{
-    console.log("ya app ka cumpuss nahi hai ")
-}
+// else{
+//     console.log("ya app ka cumpuss nahi hai ")
+// }
+
+
+// what is data types  
+
+// 1.  123 > numbers;
+// 2. "ali" > String;
+// 3.  true or false > boolean;
+// var name ; > undeifed;
+// var stusendName = null;
+
+
+
+var city1 = "karachi";
+var city2 = "lahore";
+var city3 = "hyderabad"
+
+
+var cities = [ "hyderabad","lahore" ,"karachi"]
+
+console.log(typeof cities);
+
+// console.log(cities.length);
 
