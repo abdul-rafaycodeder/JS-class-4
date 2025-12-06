@@ -34,7 +34,7 @@
 
 //     if (day == "mon") {
 //         console.log("welcome")
-    
+
 //     }
 //     else {
 //         console.log("aj app ki calss nahi hai ghar jao")
@@ -56,14 +56,33 @@
 
 
 
-var city1 = "karachi";
-var city2 = "lahore";
-var city3 = "hyderabad"
+// var city1 = "karachi";
+// var city2 = "lahore";
+// var city3 = "hyderabad"
+
+// var cities = ["lahore" , "karachi" , "hyderabad"  ] 
+
+// console.log(cities)
+
+// alert("welcome to " +cities)
 
 
-var cities = [ "hyderabad","lahore" ,"karachi"]
+// var stidents = [ 1,3 ,4 , 5, 6, 7,]
 
-console.log(typeof cities);
+// console.log(stidents[3])
+// console.log(stidents.length)    
 
-// console.log(cities.length);
+// var stds = ["ali", , ,]
 
+// stds[0] = "rafay"
+// stds[1] = "osama"
+// stds[2] = "khalid"
+
+// console.log("stds" , stds)
+
+console.log("mara naam abdul rafay hai")
+
+
+for (let i = 1; i = 4;  i++) {
+console.log("rafay")    
+}
